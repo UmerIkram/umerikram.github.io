@@ -31,6 +31,9 @@ a:hover {
 #text{
   font-size: 16px;
 }
+.web{
+  padding-left: 30px
+}
 /******************** Navigation Bar and Header *******************************************************/
 .header{
   padding-left: 20px;
@@ -82,11 +85,12 @@ a:hover {
   border: 10px solid #D3D3D3;
   background-image: url("https://1388058624.rsc.cdn77.org/monthly_2016_06/Toronto-yfirlitsmynd-Thinkstock.jpg.8fb431853f6a3f8d428eac0e3a12c7dd.jpg");
   max-width: 1350px;
-  height: 600px;
+  height: 550px;
   background-size: cover;
   background-position: center; center;   
   padding-left: 30px;
   background-attachment: fixed;
+  background-size: auto;
 }
 
 
